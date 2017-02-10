@@ -1,0 +1,11 @@
+name: ROGPluginInfo
+version: 1.0
+description: See info with /rog
+author: Eric Bormann
+main: net.realmofgladiator.dev.ROGPluginOne
+database: false
+
+commands:
+  rog:
+    description: Info about the server
+    usage: /rog
